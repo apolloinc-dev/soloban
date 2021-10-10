@@ -1,5 +1,6 @@
 # Soloban | Build your dashboard within 3 minutes
-![Covor-Image-eng](https://user-images.githubusercontent.com/8778889/136678293-56fa8129-48a8-45a7-90e0-833fc207a5fa.png)
+![Covor Image-eng for GitHub](https://user-images.githubusercontent.com/8778889/136679311-82a8bd3f-15a2-4b76-93f0-e55dab1b2549.png)
+
 Soloban creates a management dashboard that integrates your tools and data for daily use with just a few clicks.
 
 ## Soloban is a information management software with a visual focus
@@ -27,5 +28,13 @@ Soloban will help you to integrate and visualize data scattered across local sys
 - Easy editing with no design or technical knowledge required
 - Embedding in external tools and notifications is also possible
 
-## Download The Soloban Desktop App
+## Getting Stareted with Soloban
+### Register with a Closed Beta Application Form
+- https://apollohr.co.jp/soloban/en/en-waitlist/
+### Download The Soloban Desktop App
 - https://github.com/apolloinc-dev/soloban/releases
+
+## Get more info
+- [Web](https://apollohr.co.jp/soloban/en/en-home/)
+- [Article](https://pressreleasejapan.net/2021/10/06/ex-googler-and-ex-microsoft-engineer-developed-new-workspace-saas-soloban-is-now-available-for-us/)
+
